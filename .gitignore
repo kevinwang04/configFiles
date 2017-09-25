@@ -1,0 +1,44 @@
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.svn
+.idea
+target
+*.iml
+dist
+dist_tmp
+node_modules
+
+webdefault.xml
+system.properties
+nginx*
+*.bat
+
+environment.js
+nginx*
+node_modules
+public
+dist
+
+.sass-cache
+.idea
+
+.build
+.transform
+
+.vscode
+jsconfig.json
+
+Paths_that_I_want_to_ignore_while_gulp_running.js
+
